@@ -13,7 +13,7 @@ This repository provides some code and data from the manuscript:
 
 * Calcium imaging: Raw data from calcium imaging experiments is available in pickled Pandas DataFrames. 
 
-* Code for the figures: Code to replicate the figures is available as an iPython Notebook. 
+* Code for the figures: Code to replicate the figures is available as iPython Notebooks. 
 
 ## Contact
 
