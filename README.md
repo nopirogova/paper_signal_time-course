@@ -1,6 +1,6 @@
 # Contrast Normalization Affects Response Time-Course of Visual Interneurons
 
-Pirogova, N., and Borst, A.
+Pirogova, N. and Borst, A.
 
 ## Abstract
 
