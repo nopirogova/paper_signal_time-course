@@ -9,7 +9,9 @@ In this paper, we show that contrast normalization in visual interneurons of Dro
 
 ## Code & Data
 
-This repository provides some code and data from the manuscript:
+This repository provides a Python environment, as well as some code and data from the manuscript:
+
+* Python environment: a yaml file to recreate a Python environment that contains all the Python packages to reproduce the figures.
 
 * Calcium imaging: Raw data from calcium imaging experiments is available in pickled Pandas DataFrames. 
 
